@@ -6,7 +6,6 @@
  *  given.
  */
 package com.example;
-
 public class EmployeeTest {
 	public static void main(String[] args) {
 		

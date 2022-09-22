@@ -1,9 +1,10 @@
-package com.example;
+
 /**
  * @author Lam Vinh Vong 09/21/2022
  * Homework Assignment 1
  * Exercise 1 Student.java
  */
+package com.example;
 public class Student {
 	// Instance attribute
 	private String firstName;
