@@ -1,6 +1,6 @@
 package com.example;
 /**
- * @author Van Trinh Feb 22, 2022 
+ * @author Lam Vinh Vong 09/21/2022
  * Homework Assignment 1
  *  Exercise 1 Student.java
  */
@@ -159,7 +159,7 @@ public class Student {
 	 */
 	class Course {
 		void printSchedule() {
-			System.out.println("\nCS151 Mon/Wd 6:7:15");
+			System.out.println("\nCS151 	Mon/Wd 6-7:15");
 			System.out.println("Eng101 Mon/Wed 10-11:15 ");
 			System.out.println("Hist100 Tue/Thur 1:30-2:45");
 		}
