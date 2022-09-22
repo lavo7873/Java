@@ -1,9 +1,12 @@
 /**
- * @author Van Define and implement class EmployeeTest. This class implement
- *         main() method. create the following Employee instancesvIn thethe
- *         main() method, call introduce()and calculatePay() on each instances
- *         given.
+ * @author Lam Vinh Vong
+ *  Define and implement class EmployeeTest. This class implement
+ *  main() method. create the following Employee instancesvIn thethe
+ *  main() method, call introduce()and calculatePay() on each instances
+ *  given.
  */
+package com.example;
+
 public class EmployeeTest {
 	public static void main(String[] args) {
 		

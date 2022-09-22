@@ -1,5 +1,5 @@
  /**
- * @author Van Trnh
+ * @author Lam Vinh Vong
  * Home work 1
  * Exercise 5
  * The class defines or inherits the following attributes of an Animal: 
@@ -8,7 +8,9 @@
  * The class has the following functionality where the action is simply printed to command line: 
  * move(), sound(), eat(), sleep(), toString().
  */
+
 package com.example;
+
 public class Animal {
 	/**
      * The attributes of Animal Class

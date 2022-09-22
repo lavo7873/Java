@@ -2,7 +2,7 @@ package com.example;
 /**
  * @author Lam Vinh Vong 09/21/2022
  * Homework Assignment 1
- *  Exercise 1 Student.java
+ * Exercise 1 Student.java
  */
 public class Student {
 	// Instance attribute

@@ -1,5 +1,7 @@
 /**
- * @author Van Trinh Feb 22, 2022 Homework Assignment 1 Exercise 3 Person.java
+ * @author lam Vinh Vong
+ *  Sept 01, 2022 Homework Assignment 1 
+ *  Exercise 3 Person.java
  */
 
 package com.example;

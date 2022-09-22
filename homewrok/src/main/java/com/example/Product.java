@@ -1,11 +1,12 @@
 /**
- * @author Van Trinh
- * @since 02/23/2022 exercise 4 Define and implement an immutable class Product
- *        that contain fields for product name, product description, product
- *        price, maximum quantity allowed to be ordered. Create getters for all
- *        its attributes. This class also need a fully parameterized
- *        constructor. This class overrides Object’s implementation of
- *        toString()method.
+ * @author Lam Vinh Vong
+ * @since 09/22/2022 exercise 4 
+ * Define and implement an immutable class Product
+ * that contain fields for product name, product description, product
+ * price, maximum quantity allowed to be ordered. Create getters for all
+ * its attributes. This class also need a fully parameterized
+ * constructor. This class overrides Object’s implementation of
+ * toString()method.
  */
 
 
