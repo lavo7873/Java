@@ -1,0 +1,19 @@
+Exercise 2
+
+
+List main differences between primitive data type int and class Integer. Be as specific as possible.
+
+What are advantages of using each one?
+
+List all specific functionalities that are available when using one and not the other.
+
+Consult Java API as a resource to find out this information.
+
+
+
+
+	•	An int is a primitive. It is a place holder for one type of value and that is all.
+	•	An Integer is a class. That means that you can treat it like a class, you can instantiate it, you can delete it, it provides with you methods to perform on it, for example, toString as well as others. An Integer class can be instantiated through its constructor with an int primitive as a parameter that you pass in.
+
+Source:
+Quora -Tyler Johnson

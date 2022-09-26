@@ -1,6 +1,6 @@
 /**
  * @author lam Vinh Vong
- *  Sept 01, 2022 Homework Assignment 1 
+ *  Sep 25, 2022 Homework Assignment 1 
  *  Exercise 3 Person.java
  */
 
